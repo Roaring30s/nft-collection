@@ -1,0 +1,1 @@
+export { CollectionStatsContainer } from './CollectionStats';

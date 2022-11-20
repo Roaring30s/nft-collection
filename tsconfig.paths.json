@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@features/*": [
+                "src/features/*"
+            ],
+            "@core/*": [
+                "src/core/*"
+            ],
+            "@assets/*": [
+                "src/assets/*"
+            ],
+            "@utils/*": [
+                "src/utils/*"
+            ]
+        },
+        "isolatedModules": false
+    }
+}
